@@ -1,0 +1,21 @@
+h1{
+    color:rgb(219, 219, 14);
+    font-family: cursive;
+}
+* {
+       border:solid;
+    }
+    .header{
+        background-color: azure;
+       display:flex;
+       justify-content: space-between;
+    }
+    .grid{
+        display:flex;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+    }
+    .footer{
+        display: flex;
+        justify-content: flex-end;
+    }
